@@ -18,4 +18,8 @@ export class AppComponent {
     {text: 'Card 9'},
     {text: 'Card 10'},
   ];
+
+  addCard(cardText: string) {
+    this.cards.push({text: cardText});
+  }
 }
