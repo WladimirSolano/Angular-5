@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06e3b21b-dfcd-43b1-95f7-ceacd81aed6b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mean-angular5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/mean-angular5/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mean-angular5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mean-angular5/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mean-angular5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mean-angular5/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="06e3b21b-dfcd-43b1-95f7-ceacd81aed6b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,8 +26,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mean-angular5/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+            <state relative-caret-position="230">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -200,12 +195,12 @@
       <updated>1522762624689</updated>
       <workItem from="1522762628293" duration="5990000" />
       <workItem from="1522768716527" duration="18854000" />
-      <workItem from="1523279836009" duration="3851000" />
+      <workItem from="1523279836009" duration="4095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36041000" />
+    <option name="totallyTimeSpent" value="36285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -636,8 +631,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mean-angular5/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        <state relative-caret-position="230">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
