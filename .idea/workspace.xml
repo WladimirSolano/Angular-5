@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="06e3b21b-dfcd-43b1-95f7-ceacd81aed6b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mean-angular5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/mean-angular5/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mean-angular5/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mean-angular5/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mean-angular5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mean-angular5/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,21 +23,21 @@
         <entry file="file://$PROJECT_DIR$/mean-angular5/bin/www">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mean-angular5/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="184">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="book.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mean-angular5/routes/book.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -47,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/mean-angular5/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,8 +103,8 @@
         <option value="$PROJECT_DIR$/mean-angular5/bin/www" />
         <option value="$PROJECT_DIR$/mean-angular5/package.json" />
         <option value="$PROJECT_DIR$/mean-angular5/bin/www.js" />
-        <option value="$PROJECT_DIR$/mean-angular5/app.js" />
         <option value="$PROJECT_DIR$/mean-angular5/routes/book.js" />
+        <option value="$PROJECT_DIR$/mean-angular5/app.js" />
       </list>
     </option>
   </component>
@@ -144,12 +147,6 @@
               <item name="Angular 5" type="b2602c69:ProjectViewProjectNode" />
               <item name="Angular 5" type="462c0819:PsiDirectoryNode" />
               <item name="mean-angular5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Angular 5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Angular 5" type="462c0819:PsiDirectoryNode" />
-              <item name="mean-angular5" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,12 +200,12 @@
       <updated>1522762624689</updated>
       <workItem from="1522762628293" duration="5990000" />
       <workItem from="1522768716527" duration="18854000" />
-      <workItem from="1523279836009" duration="2727000" />
+      <workItem from="1523279836009" duration="3851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34917000" />
+    <option name="totallyTimeSpent" value="36041000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,7 +221,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" weight="0.32896653" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22868474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22868474" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -232,7 +229,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.33475783" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32896653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36390102" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36390102" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -616,7 +613,7 @@
     <entry file="file://$PROJECT_DIR$/mean-angular5/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -626,14 +623,7 @@
     <entry file="file://$PROJECT_DIR$/mean-angular5/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mean-angular5/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -641,6 +631,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mean-angular5/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
         </state>
       </provider>
     </entry>
